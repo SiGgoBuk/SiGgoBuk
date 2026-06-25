@@ -2,7 +2,7 @@
 
 ### A passionate Cloud Engineer from Korea
 
-- 👨‍💻 All of my projects are available at **[Notion](https://app.notion.com/p/34a3c17f74a180958786c95df7b30b43)**
+- 👨‍💻 All of my projects are available at **[Notion](https://app.notion.com/p/34a3c17f74a180958786c95df7b30b43)** or my Repositories
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
