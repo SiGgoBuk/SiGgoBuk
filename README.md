@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,terraform,docker,linux,python,mysql,git" />
