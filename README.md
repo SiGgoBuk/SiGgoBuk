@@ -24,7 +24,7 @@
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
 | **[EKS 기반 URL 단축기](https://github.com/SiGgoBuk/eks-url-shortener)** | Terraform으로 EKS·RDS·Redis 전체 인프라 구축, ALB Controller·HPA 적용 배포 | `EKS` `Terraform` `ECR` `RDS` `Redis` |
-| **[Kubernetes 클러스터 운영](https://github.com/SiGgoBuk/Kubernetes-Cluster-Operation-Project)** | kubeadm 클러스터 직접 구축 — etcd 백업/복구, 버전 업그레이드, RBAC, NetworkPolicy | `Kubernetes` |
+| **[Kubernetes 클러스터 운영](https://github.com/SiGgoBuk/Kubernetes-Cluster-Operation-Project)** | kubeadm 클러스터 구축 — etcd 백업/복구, 버전 업그레이드, RBAC, NetworkPolicy | `Kubernetes` |
 | **[HCP Terraform 인프라 자동화](https://github.com/SiGgoBuk/HCP-Terraform-HISTORY)** | GitHub push 트리거로 plan/apply 자동 실행되는 VCS 연동 워크플로우 | `Terraform` `HCP` `AWS` |
 | **[AWS 3-Tier 아키텍처](https://github.com/SiGgoBuk/AWS-3Tier-Web-Service-Project)** | Multi-AZ 기반 ALB-Nginx-Tomcat-RDS 3계층 구축 | `VPC` `ALB` `EC2` `RDS` |
 | **[ECS 컨테이너 서비스](https://github.com/SiGgoBuk/AWS-ECS-Container-Web-Service-Project)** | Docker 이미지 v1/v2 버전 관리, ECR-Fargate 서버리스 배포 | `ECS` `ECR` `Docker` |
