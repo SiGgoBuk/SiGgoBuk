@@ -46,6 +46,6 @@
 
 ## Certifications
 
-`CKA` `CKAD` `CKS` `AWS SAA` `Terraform Associate` `CCNA` `정보처리기사` `리눅스마스터 2급` `네트워크관리사 2급`
+`CKA` `CKAD` `CKS` `AWS SAA` `Terraform Associate` `CCNA` `정보처리기사` `리눅스마스터 2급` `네트워크관리사 2급` `컴퓨터활용능력 1급`
 
 ---
