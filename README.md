@@ -28,7 +28,7 @@
 | **[HCP Terraform 인프라 자동화](https://github.com/SiGgoBuk/HCP-Terraform-HISTORY)** | GitHub push 트리거로 plan/apply 자동 실행되는 VCS 연동 워크플로우 | `Terraform` `HCP` `AWS` |
 | **[AWS 3-Tier 아키텍처](https://github.com/SiGgoBuk/AWS-3Tier-Web-Service-Project)** | Multi-AZ 기반 ALB-Nginx-Tomcat-RDS 3계층 구축 | `VPC` `ALB` `EC2` `RDS` |
 | **[ECS 컨테이너 서비스](https://github.com/SiGgoBuk/AWS-ECS-Container-Web-Service-Project)** | Docker 이미지 v1/v2 버전 관리, ECR-Fargate 서버리스 배포 | `ECS` `ECR` `Docker` |
-| **[Multi-Cloud 인프라]([https://github.com/SiGgoBuk](https://github.com/SiGgoBuk/AWS-GCP-MultiCloud-Project))** | GCP-AWS HA VPN·BGP 연동 하이브리드 네트워크 | `GCP` `AWS` `VPN` |
+| **[Multi-Cloud 인프라](https://github.com/SiGgoBuk/AWS-GCP-MultiCloud-Project)** | GCP-AWS HA VPN·BGP 연동 하이브리드 네트워크 | `GCP` `AWS` `VPN` |
 
 <details>
 <summary> 이전 프로젝트 더 보기</summary>
