@@ -47,5 +47,5 @@
 ## Certifications
 
 `CKA` `CKAD` `CKS` `AWS SAA` `Terraform Associate` `CCNA` `정보처리기사` `리눅스마스터 2급` `네트워크관리사 2급` `컴퓨터활용능력 1급`
-
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/cb455808-d8c3-4643-ab5f-d1a064da490c/public_url)
 ---
