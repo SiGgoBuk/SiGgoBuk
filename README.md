@@ -46,6 +46,7 @@
 ## Certifications
 
 **Kubernetes**  
+**Kubernetes**  
 [![CKA](https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/364bb5d8-f4c3-4182-bb0b-2a581f8ce17b/public_url)
 
 [![CKAD](https://img.shields.io/badge/CKAD-Certified%20Kubernetes%20Application%20Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/4a434452-3458-4c4b-8507-6dac890f48e9/public_url)
@@ -53,6 +54,8 @@
 [![CKS](https://img.shields.io/badge/CKS-Certified%20Kubernetes%20Security%20Specialist-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/2671799f-138f-4892-9a51-168c162ad59b/public_url)
 
 [![KCNA](https://img.shields.io/badge/KCNA-Kubernetes%20and%20Cloud%20Native%20Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/36f6f871-7107-4044-8d76-10e20911c4e9/public_url)
+
+[![KCSA](https://img.shields.io/badge/KCSA-Kubernetes%20and%20Cloud%20Native%20Security%20Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/443c79d6-ff29-4a6f-aea9-19f936fd3021/public_url)
 
 **Cloud & IaC**  
 [![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/cb455808-d8c3-4643-ab5f-d1a064da490c/public_url)
