@@ -46,7 +46,6 @@
 ## Certifications
 
 **Kubernetes**  
-**Kubernetes**  
 [![CKA](https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/364bb5d8-f4c3-4182-bb0b-2a581f8ce17b/public_url)
 
 [![CKAD](https://img.shields.io/badge/CKAD-Certified%20Kubernetes%20Application%20Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/4a434452-3458-4c4b-8507-6dac890f48e9/public_url)
